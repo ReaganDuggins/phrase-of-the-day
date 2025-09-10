@@ -1,0 +1,39 @@
+[
+    {
+        "English": "How are you?",
+        "Hebrew": 
+        [
+            {
+                "Kind": "(M)",
+                "Native": "מַה שְׁלוֹמְךָ",
+                "Pronunciation": "ma shlomkha"
+            },
+            {
+                "Kind": "(F)",
+                "Native": "מַה שְׁלוֹמֵךְ",
+                "Pronunciation": "ma shlomekh"
+            }
+        ],
+        "Old Norse":
+        [
+            {
+                "Kind": "(Elder)",
+                "Native": "ᚺᚢᛖᚱᚾᛁᚷ ᚷᛖᚾᚷᚱ",
+                "Pronunciation": "Hvernig Gengr" 
+            },
+            {
+                "Kind": "(Younger)",
+                "Native": "ᚼᚢᛖᚱᚾᛁᚵ ᚵᛖᚾᚵᚱ",
+                "Pronunciation": "Hvernig Gengr" 
+            }
+        ],
+        "Old English":
+        [
+            {
+                "Kind": "(Anglo-Saxon)",
+                "Native": "ᚻᚢ ᚷᚫᚦ",
+                "Pronunciation": "Hu Gæþ (Hoo Gath)" 
+            }
+        ]
+    }
+]
